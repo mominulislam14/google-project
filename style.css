@@ -1,0 +1,12 @@
+.header{
+    background-color: red;
+    text-align: center;
+}
+.project{
+    background-color: aqua;
+}
+#para{
+    background-color: antiquewhite;
+    color: rgb(12, 99, 175);
+    font-weight: bold;
+}
